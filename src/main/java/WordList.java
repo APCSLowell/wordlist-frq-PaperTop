@@ -29,6 +29,6 @@ public class WordList
       if (myList.get(i).length() != len){
         ans.add(myList.get(i));
       }
-  }
-  myList = ans;
+    }
+    myList = ans;
 }
